@@ -47,7 +47,7 @@ Netlify, Vercel, GitHub Pages, or any hosting. Just upload the `dist` folder.
 
 ## Contact
 
-outreach@7billionpresidents.org
+estion@traduccionesabroad.com
 gurlekyunusemre2@gmail.com
 
 ---
