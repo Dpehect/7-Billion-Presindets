@@ -4,7 +4,7 @@ Built by: Yunus Emre Gürlek
 
 https://www.7billionpresidents.org/
 
-* What's on the Site?
+** What's on the Site?
 
 - Responsive navigation
 - Hero section
@@ -15,7 +15,7 @@ https://www.7billionpresidents.org/
 - Footer
 
 
-*Contact
+**Contact
 
 estion@traduccionesabroad.com
 gurlekyunusemre2@gmail.com
